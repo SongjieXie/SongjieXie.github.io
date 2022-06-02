@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi,there! This is Songjie.
 
-This is Songjie's home on the web.
+I am currently a graduate student advised by Prof. [Youlong Wu](https://faculty.sist.shanghaitech.edu.cn/faculty/wyl/) at at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I also received my bachelor's degree in 2020.
+
+My research interests lie in Information Theory and Machine Learning with a focus on Semmantic Communication, Represenation Learning and Variational Inference.
 
 
+# News
