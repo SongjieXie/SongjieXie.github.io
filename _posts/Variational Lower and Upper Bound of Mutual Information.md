@@ -1,4 +1,14 @@
-# Variational Lower and Upper Bound of Mutual Information
+---
+title: 'Variational Lower and Upper Bounds of Mutual Information'
+date: 2022-06-04
+permalink: /posts/2012/08/blog-post-4/
+tags:
+  - Information Theory
+  - Representation Learning
+---
+
+
+# Variational Lower and Upper Bounds of Mutual Information
 
 Mutual information (MI) has been widely used in many fields of machine learning, especially in representation learning. Almost all the works focus on the Information Maximization problem. MI between data and representation is maximized to ensure that the representation retains as much information as possible. However, maximizing MI can lead to the issue of overfitting. I derive the variational lower and upper bound pf MI. And thereby I discuss the information maximization principle and the dual version, the information minimization principle. With the upper and lower bound, I explore the corresponding applications: Variational Information Bottleneck and Joint Source-channel Coding.
 
