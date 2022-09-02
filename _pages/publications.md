@@ -12,7 +12,7 @@ Entropy 23.11 (2021): 1408. \[[Paper](https://www.mdpi.com/1099-4300/23/11/1408)
 **Songjie Xie**, Shuai Ma, Ming Ding, Mingjian Tang, Yuanming Shi, and Youlong Wu\\
 Submitted to Journal on Selected Areas of Communication (JSAC)
 
-**Fed-SC: Federated Subspace Clustering with Data Heterogeneity**
-**Songjie Xie**, Lu Sun, and Youlong Wu 
-In preparation
+**Fed-SC: Federated Subspace Clustering with Data Heterogeneity**\\
+**Songjie Xie**, Lu Sun, and Youlong Wu \\
+In preparation\\
 
