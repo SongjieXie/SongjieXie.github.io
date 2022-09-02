@@ -5,5 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 **On the Achievable Rate Region of the K-Receiver Broadcast Channels via Exhaustive Message Splitting**\\
-Rui Tang, **Songjie Xie**, Youlong Wu\\
+Rui Tang, **Songjie Xie**, and Youlong Wu\\
 Entropy 23.11 (2021): 1408. \[[Paper](https://www.mdpi.com/1099-4300/23/11/1408)\]
+
+**Robust Information Bottleneck for Task-Oriented Communication with Digital Modulation**\\
+**Songjie Xie**, Shuai Ma, Ming Ding, Mingjian Tang, Yuanming Shi, and Youlong Wu\\
+Submitted to Journal on Selected Areas of Communication (JSAC)
+
+**Fed-SC: Federated Subspace Clustering with Data Heterogeneity**
+**Songjie Xie**, Lu Sun, and Youlong Wu 
+In preparation
+
