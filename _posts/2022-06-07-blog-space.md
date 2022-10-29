@@ -1,7 +1,7 @@
 ---
 title: 'Metric Spaces, Topological Spaces and Measurable Spaces'
 date: 2022-06-10
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2022/06/blog-post-2/
 tags:
 
 - Notes
