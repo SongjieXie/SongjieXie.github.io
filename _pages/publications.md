@@ -8,7 +8,7 @@ author_profile: true
 **Songjie Xie**, Shuai Ma, Ming Ding, Mingjian Tang, Yuanming Shi, and Youlong Wu\\
 Submitted to Journal on Selected Areas of Communication (JSAC)  \[[Paper](https://arxiv.org/abs/2209.10382)\]\[[Code](https://github.com/SongjieXie/Discrete-TaskOriented-JSCC)\]
 
-**Fed-SC: Federated Subspace Clustering with Data Heterogeneity**\\
+**Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data**\\
 **Songjie Xie**, Youlong Wu, Kewen Liao, Lu Chen, Chengfei Liu, Haifeng Shen, Mingjian Tang, and Lu Sun \\
 Accepted by IEEE International Conference on Data Engineering (ICDE 2023) \[[Code](https://github.com/SongjieXie/Fed-SC)\]
 
