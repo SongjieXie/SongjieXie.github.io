@@ -10,7 +10,7 @@ Submitted to Journal on Selected Areas of Communication (JSAC)  \[[Paper](https:
 
 **Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data**\\
 **Songjie Xie**, Youlong Wu, Kewen Liao, Lu Chen, Chengfei Liu, Haifeng Shen, Mingjian Tang, and Lu Sun \\
-Accepted by IEEE International Conference on Data Engineering (ICDE 2023) \[[Code](https://github.com/SongjieXie/Fed-SC)\]
+Accepted by IEEE International Conference on Data Engineering (ICDE 2023) \[[Code](https://github.com/SongjieXie/Fed-SC)\] \[[Slide](https://drive.google.com/file/d/1UbAmvKna6LCKvI4gPfuBPrZ0UmrHuT06/view?usp=share_link)\]
 
 
 **On the Achievable Rate Region of the K-Receiver Broadcast Channels via Exhaustive Message Splitting**\\
