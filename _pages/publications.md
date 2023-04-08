@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Robust Information Bottleneck for Task-Oriented Communication with Digital Modulation**\\
 **Songjie Xie**, Shuai Ma, Ming Ding, Mingjian Tang, Yuanming Shi, and Youlong Wu\\
-Submitted to Journal on Selected Areas of Communication (JSAC)  \[[paper](https://arxiv.org/abs/2209.10382)\]\[[Code](https://github.com/SongjieXie/Discrete-TaskOriented-JSCC)\]
+Submitted to Journal on Selected Areas of Communication (JSAC)  \[[paper](https://arxiv.org/abs/2209.10382)\]\[[code](https://github.com/SongjieXie/Discrete-TaskOriented-JSCC)\]
 
 **Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data**\\
 **Songjie Xie**, Youlong Wu, Kewen Liao, Lu Chen, Chengfei Liu, Haifeng Shen, Mingjian Tang, and Lu Sun \\
