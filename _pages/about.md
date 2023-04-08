@@ -14,6 +14,8 @@ Hi,there! This is Songjie.
 
 I am currently a graduate student advised by Prof. [Youlong Wu](https://faculty.sist.shanghaitech.edu.cn/faculty/wyl/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I also received my bachelor's degree in 2020.
 
+[CV](https://drive.google.com/file/d/1fQwt35F-ZEZb-u28w73U-N5qI_Q22AzT/view?usp=share_link)
+
 My research interests lie in Information Theory and Machine Learning with a focus on Semantic Communication, Trustworthy Machine Learning, and Federated Learning.
 
 # News
